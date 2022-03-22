@@ -1,7 +1,7 @@
 { 
   "format": "rss",
   "citation": "Yugra State University Biological Collection (YSU BC) IPT",
-  "url": "http://ipt.ugrasu.ru:8080/ipt/rss.do",
+  "url": "http://ipt.ugrasu.ru:8080/rss.do",
   "hasDependencies" : true,
   "shouldResolveReferences": false
 }
